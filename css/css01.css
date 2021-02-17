@@ -1,0 +1,22 @@
+h2
+{
+    color: darkred;
+    background: bisque;
+    border-radius: 24px;
+}
+
+dt
+{
+    font-size: 15px;
+    color: red;
+}
+.soft
+{
+    font-size: 15px;
+    color: blue;
+}
+.hard
+ {
+     font-size: 15px;
+     color: black;
+ }
