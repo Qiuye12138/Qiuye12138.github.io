@@ -1,3 +1,19 @@
+body
+{
+    font-family: "楷体", serif ;
+}
+
+a
+{
+    text-decoration: none;
+    color:black;
+}
+
+a:hover
+{
+    color:dodgerblue;
+}
+
 h2
 {
     color: darkred;
@@ -7,16 +23,25 @@ h2
 
 dt
 {
-    font-size: 15px;
+    font-size: 20px;
     color: red;
 }
 .soft
 {
+    font-weight: bold;
     font-size: 15px;
     color: blue;
 }
 .hard
  {
-     font-size: 15px;
-     color: black;
+    font-weight: bold;
+    font-size: 15px;
+    color: black;
  }
+
+div
+{
+    width:500px;
+    height:200px;
+    background: linear-gradient(5deg, coral, antiquewhite 100%);
+}
